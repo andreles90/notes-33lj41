@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://andreles90.github.io/notes-33lj41/sitemap.xml
